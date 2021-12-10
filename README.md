@@ -1,1 +1,1 @@
-# applied-machine-learning
+# Respiratory Sounds Classification
